@@ -1,0 +1,118 @@
+1) L-4 - basic construct and elementary data types
+- ch-1 - hello_world.go
+    -------
+- ch-2 - alias & explicit conv
+    -------
+- ch-3 - struct sample
+    -------
+- ch-4 - os.Getenv
+    -------
+- ch-5 - math.Atan
+    -------
+- ch-6 - use init or prev dir func
+    -------
+- ch-7 - type mixing not possible
+    -------
+- ch-8 - explicit conv
+    -------
+- ch-9 - math/Random & rand.Int
+    -------
+- ch-10 - type alias
+    -------
+- ch-11  - strings.HasPrefix
+    -------
+    - strings.Contains // check for substr
+    -------
+- ch - 12 - strings.Index & strings.LastIndex & strings.IndexRune
+    -------
+    - strings.Replace(str, old, new, n) 
+    -------
+- ch - 13 - count occurence of substring - strings.Count
+- ch - 14 - repeat and print - strings.Repeat
+- ch - 15 - strings.ToLower and strings.ToUpper
+    ---------
+    - strings.TrimSpace(s) to remove all leading and trailing whitespace
+    ----------
+- ch - 16 - strings.Fields & strings.Split & strings.Split
+    ----------
+    - strings. NewReader(str) function // read a string
+    -----------
+    - strconv
+        - strconv.Itoa // from int
+        - strconv.FormatFloat // from float
+        - strconv.Atoi // str to int
+        - strconv.ParseFloat // str to float
+            - ret type will ret 2 values // val, err
+- ch - 17 - strconv.Atoi & strconv.Itoa & strconv.IntSize
+    -----------
+- ch - 18 - time.Now & time.Duration
+    - time.After & time.Ticker & time.Sleep
+    -----------
+- ch - 19 - pointers.go
+    -----------
+- ch - 20 - strings_pointer.go
+    -----------
+- ch - 21 - nil pointer - illegal - testcrash.go
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+2) L-5 - control structures
+- ch - 1 - if-else statement
+    -----------
+    - if len(str) == 0 { ... }
+    - runtime.GOOS == "windows"
+    ------------
+- ch - 2 - if initialization; condition - := not to use
+    ------------
+- ch -3 - err_string_conversion2.go & check for err return in function
+        - check for the return of err and stop the execution using os.Exit(1)
+    ------------
+- ch - 4 - switch1.go
+    ------------
+- ch - 5 - switch2.go
+    -------------
+    else can be used as switch initialization - switch result := calculate(); {
+    case result < 0:
+    -------------
+- ch - 6 - for1.go & general format of for loop
+    -------------
+- ch - 7 - for_string.go & len(str) and iterate through the strings and print each word
+    -------------
+- ch - 8 - for2.go & while loop implementation with for
+    -------------
+    Infinite loop - is a server-function which is waiting for incoming requests
+    for t, err = p.Token(); err == nil; t, err = p.Token() {...} // ch 12
+    -------------
+- ch - 9 - range_strimgs.go - use of range in for loop  
+    -------------
+- ch - 10 - for4.go - break keyword
+    -------------
+- ch - 11 - for5.go - continue keyword
+    -------------
+- ch - 12 - for6.go - use of labels - continue LABEL - for loop
+    -------------
+- ch - 13 - goto.go - break label - switch - goto
+    -------------
+    - !! The use of labels and certainly goto is discouraged: it can quickly lead to bad program design, the code
+    can almost always be written more readable without using them. !!
+    -------------
+    - An example where the use of goto is acceptable is in program simple_tcp_server.go from § 15.1
+    :there goto is used to jump out of an infinite read-loop and close the connection with a client when
+    a read-error occurs on that connection.
+    --------------
+    do not declare var in between goto and labels
+    --------------
+- ch -14 - goto2.go - use only forward labels in goto
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+3) L-6 - FUNCTIONS
+    - DRY = don't repeat yourself
+    --------------
+- ch - 1 - function calling another function
+    --------------
+- ch - 2 - simple function
+    --------------
+- ch - 3 - multiple ret val with named and unamed var
+    --------------
+- ch - 4 - blank identifier, _ , discard right hand side val
+    --------------
+- ch - 5 - 

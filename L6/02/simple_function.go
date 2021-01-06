@@ -1,4 +1,5 @@
 // program simple_function.go the function takes 3 int parameters a,b and c and returns an int
+// returning more than 3-4 values, then slice can be used
 // call by val - orig val not changed
 // call by add - orig val is changed - pass the memory add
 package main

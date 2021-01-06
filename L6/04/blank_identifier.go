@@ -1,3 +1,6 @@
+// blank identifier _ , used to discard values
+// assign right hand side values to nothing
+
 package main
 
 import "fmt"
@@ -6,6 +9,7 @@ func main() {
 	var i1 int
 	var f1 float32
 	i1, _, f1 = ThreeValues()
+	// so the values 6 will be discarded
 	fmt.Printf("The int: %d, the float; %f\n", i1, f1)
 }
 func ThreeValues() (int, int, float32) {

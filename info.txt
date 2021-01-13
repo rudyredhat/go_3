@@ -135,7 +135,7 @@
     --------------
 - ch - 13 - recursive function, fibonacci series
     --------------
-    - all.go
+    - all.go **************
 - ch - 14 - mutually recursive function, odd calls even and even calls odd
           - cal even and odd with mutually exclusive way with 3 FUNCTIONS
     --------------
@@ -153,3 +153,43 @@
     --------------
 - ch - 22 - memoization for performance and making programs faster, generally used in maps
     --------------
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+4) L-7 - ARRAYS AND SLICES
+- 1-14 all.go
+- ch - 1 - array listing
+    ---------------
+- ch - 2 - passing a pointer to a array
+    ---------------
+- ch - 3 - array literals & constructors
+    ---------------
+- ch - 4 - array and pointer 2
+    ---------------
+- ch - 5 - multidim_array.go
+    ---------------
+- ch - 6 - array pointer and sum of array
+    ---------------
+- ch - 7 - slice intro
+    ---------------
+- ch - 8 - passing a slice to function
+    ---------------
+- ch - 9 - make() slice 
+    ---------------
+- ch - 10 - new() and make()
+    ---------------
+- ch - 11 - use of buffer and slice
+    ---------------
+- ch - 12 - use of slice, for and string/number
+    ---------------
+- ch - 13 - reslicing , changing length of slice
+    ---------------
+- ch - 14 - copy and append slice
+    ---------------
+- ch - 15 - for range string and slice, for_string.go
+          - changing a char in string
+          - memory representation of str and slice
+          - compare function ret an int comparing 2 byte array - 180
+          - append and sort op with slices - 181 and 182
+          - slices and gc - 182
+    ---------------
+-------------------------------------------------------------------------------------

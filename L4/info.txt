@@ -1,0 +1,56 @@
+1) L-4 - basic construct and elementary data types
+- ch-1 - hello_world.go
+    -------
+- ch-2 - alias & explicit conv
+    -------
+- ch-3 - struct sample
+    -------
+- ch-4 - os.Getenv
+    -------
+- ch-5 - math.Atan
+    -------
+- ch-6 - use init or prev dir func
+    -------
+- ch-7 - type mixing not possible
+    -------
+- ch-8 - explicit conv
+    -------
+- ch-9 - math/Random & rand.Int
+    -------
+- ch-10 - type alias
+    -------
+- ch-11  - strings.HasPrefix
+    -------
+    - strings.Contains // check for substr
+    -------
+- ch - 12 - strings.Index & strings.LastIndex & strings.IndexRune
+    -------
+    - strings.Replace(str, old, new, n) 
+    -------
+- ch - 13 - count occurence of substring - strings.Count
+- ch - 14 - repeat and print - strings.Repeat
+- ch - 15 - strings.ToLower and strings.ToUpper
+    ---------
+    - strings.TrimSpace(s) to remove all leading and trailing whitespace
+    ----------
+- ch - 16 - strings.Fields & strings.Split & strings.Split
+    ----------
+    - strings. NewReader(str) function // read a string
+    -----------
+    - strconv
+        - strconv.Itoa // from int
+        - strconv.FormatFloat // from float
+        - strconv.Atoi // str to int
+        - strconv.ParseFloat // str to float
+            - ret type will ret 2 values // val, err
+- ch - 17 - strconv.Atoi & strconv.Itoa & strconv.IntSize
+    -----------
+- ch - 18 - time.Now & time.Duration
+    - time.After & time.Ticker & time.Sleep
+    -----------
+- ch - 19 - pointers.go
+    -----------
+- ch - 20 - strings_pointer.go
+    -----------
+- ch - 21 - nil pointer - illegal - testcrash.go
+-------------------------------------------------------------------------------------

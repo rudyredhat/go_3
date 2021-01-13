@@ -1,0 +1,48 @@
+2) L-5 - control structures
+- ch - 1 - if-else statement
+    -----------
+    - if len(str) == 0 { ... }
+    - runtime.GOOS == "windows"
+    ------------
+- ch - 2 - if initialization; condition - := not to use
+    ------------
+- ch -3 - err_string_conversion2.go & check for err return in function
+        - check for the return of err and stop the execution using os.Exit(1)
+    ------------
+- ch - 4 - switch1.go
+    ------------
+- ch - 5 - switch2.go
+    -------------
+    else can be used as switch initialization - switch result := calculate(); {
+    case result < 0:
+    -------------
+- ch - 6 - for1.go & general format of for loop
+    -------------
+- ch - 7 - for_string.go & len(str) and iterate through the strings and print each word
+    -------------
+- ch - 8 - for2.go & while loop implementation with for
+    -------------
+    Infinite loop - is a server-function which is waiting for incoming requests
+    for t, err = p.Token(); err == nil; t, err = p.Token() {...} // ch 12
+    -------------
+- ch - 9 - range_strimgs.go - use of range in for loop  
+    -------------
+- ch - 10 - for4.go - break keyword
+    -------------
+- ch - 11 - for5.go - continue keyword
+    -------------
+- ch - 12 - for6.go - use of labels - continue LABEL - for loop
+    -------------
+- ch - 13 - goto.go - break label - switch - goto
+    -------------
+    - !! The use of labels and certainly goto is discouraged: it can quickly lead to bad program design, the code
+    can almost always be written more readable without using them. !!
+    -------------
+    - An example where the use of goto is acceptable is in program simple_tcp_server.go from § 15.1
+    :there goto is used to jump out of an infinite read-loop and close the connection with a client when
+    a read-error occurs on that connection.
+    --------------
+    do not declare var in between goto and labels
+    --------------
+- ch -14 - goto2.go - use only forward labels in goto
+-------------------------------------------------------------------------------------

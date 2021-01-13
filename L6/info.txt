@@ -1,0 +1,50 @@
+3) L-6 - FUNCTIONS
+    - DRY = don't repeat yourself
+    --------------
+- ch - 1 - function calling another function
+    --------------
+- ch - 2 - simple function
+    --------------
+- ch - 3 - multiple ret val with named and unamed var
+    --------------
+- ch - 4 - blank identifier, _ , discard right hand side val
+    --------------
+- ch - 5 - min and max of 2 values
+    --------------
+- ch - 6 - using pointer in func , passing as int and not using return
+    --------------
+- ch - 7 - cal min val from set of array, use of ... variadic function
+         - passing set of array using arr... and receiving as ...int
+    --------------
+- ch - 8 - defer function, so that how it is executed in the end
+    --------------
+- ch - 9 - defer in multiple func and use in db connection
+    --------------
+- ch - 10 - trace with defer, when certain func are entering and leaving
+    --------------
+- ch - 11 - function within function pass f1(f2()), and use of defer
+    --------------
+- ch - 12 - use of defer in debugging, debug log values , defer func() itself ***
+          - use of log.printf()
+    --------------
+- ch - 13 - recursive function, fibonacci series
+    --------------
+    - all.go **************
+- ch - 14 - mutually recursive function, odd calls even and even calls odd
+          - cal even and odd with mutually exclusive way with 3 FUNCTIONS
+    --------------
+- ch - 15 - function as parameteres to other func called as callback , f1(1, f2)
+    --------------
+- ch - 16 - closures , literal, anonymous func , func(){}()
+    --------------
+- ch - 17 - anonymous func with parameteres
+    --------------
+- ch - 18 - lambda functions , apply closure, func returning another func
+    --------------
+- ch - 19 - same above func with diff closure way
+    --------------
+- ch - 20 & 21 - only info , debug and time with closures
+    --------------
+- ch - 22 - memoization for performance and making programs faster, generally used in maps
+    --------------
+-------------------------------------------------------------------------------------

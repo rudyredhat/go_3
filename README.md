@@ -1,2 +1,10 @@
 # go_3
 This repo contains all the programs and related information from book 'The Way to Go'
+1. L4
+  - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L4/info.txt)
+2. L5
+  - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L5/info.txt)
+3. L6
+  - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L6/info.txt)
+4. L7
+  - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L7/info.txt)

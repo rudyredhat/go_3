@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------
+3) L-9 - PACKAGES
+    - ch - 1 - reboot linux system
+    --------------
+    - ch - 2 - regexp find & replace using str & func()
+             - Locking and the sync package using meutex
+    --------------
+    - ch - 3 - Accurate computations and the big package. - BigInts
+    -------------
+    - ch - 4 - 
+    

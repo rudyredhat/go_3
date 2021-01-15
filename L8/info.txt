@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------------
+3) L-8 - MAPS
+- ch - 1 - make_maps and maps creation
+    -------------
+- ch - 2 - func() int as it values in maps
+         - capicity of maps 
+         - slices as map values
+    -------------
+- ch - 3 - test existence of key, val and delete any key
+    -------------
+- ch - 4 - for range maps
+    -------------
+- ch - 5 - ** maps and slices
+    -------------
+- ch - 6 - inverting a map
+    -------------
+    

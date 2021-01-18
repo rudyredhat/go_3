@@ -7,5 +7,16 @@
     --------------
     - ch - 3 - Accurate computations and the big package. - BigInts
     -------------
-    - ch - 4 - 
+    - ch - 4 - pack1.go , package created
+    - ch - 5 - package_test.go , imported above package
+    -------------
+    - ch - 6 - Building and Installing a package
+             - Below topics in book - theory only - 9.6 to 9.11
+             - godoc and goinstall part in book
+             - map structures of go package // upper case exmaple
+             - locally installing packages
+             - Installing from github
+             - urlshortener - related to chap 15
+    -------------
+    
     

@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------------
+0) L-9 - STRUCTS AND METHODS
+    - ch - 1 - Basic struct eg 
+    -----------
+    - ch - 2 - struct as value/pointer/literal
+             - structs and memory layout with pointer - 229
+             - recursive structs can be used as LL - 230
+    -----------
+    - ch - 3 - struct conversions using alias
+    -----------
+    - ch - 4 - factory functions instead of constructors - 233
+             - new() and make() for maps and structs diff explained well
+    -----------
+    - ch - 5 - structs -- defining custom packages using structs
+    - ch - 6 - main 
+    -----------
+    - ch - 7 - structs with tags
+    -----------
+    - ch - 8 - structs with one or more anonymous fields - same as inheritance - go composition
+    -----------
+    - ch - 9 - Embedded structs , same as using anonymous fields and concept of multiple inheritance
+    -----------
+    - ch - 10 - 

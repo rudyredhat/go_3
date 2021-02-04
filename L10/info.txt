@@ -20,4 +20,6 @@
     -----------
     - ch - 9 - Embedded structs , same as using anonymous fields and concept of multiple inheritance
     -----------
-    - ch - 10 - 
+    - ch - 10 - methods.go , methods with struct type
+    -----------
+    - ch - 11 - methods1.go , methods with non struct type

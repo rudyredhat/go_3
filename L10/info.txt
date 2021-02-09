@@ -23,3 +23,19 @@
     - ch - 10 - methods.go , methods with struct type
     -----------
     - ch - 11 - methods1.go , methods with non struct type
+    -----------
+    - ch - 12 - method_on_time.go , defining method and type in same package and workaround
+    -----------
+    - 10.6.2 - diff between a func and a method
+    - 10.6.3 - pointer or value as receiver
+    -----------
+    - ch - 13 - pointer_value.go , recv type as pointer not as val
+    -----------
+    - 10.14 - calling methods on val and pointers
+    - 10.6.4 - methods and non exported fields - getter and setter methods , type exported but fields are not
+    - 10.6.5 - methods on embedded types and inheritance , use of subclassing and inheritance
+    - 10.6.6 - embedding functionality in a type, aggregation and embedding
+    - 10.6.7 - multiple inheritance 
+        - 10.21 - page 254 multiple inheritance eg
+    - 10.7 - string() method and format sprecifiers for a type
+    - 10.8 - garbage collection and setfinalizer

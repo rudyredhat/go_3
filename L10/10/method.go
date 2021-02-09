@@ -1,4 +1,5 @@
 //methods on struct
+// a Go method is a function that acts on variable of a certain type, called the receiver. So a method is a special kind of function.
 package main
 
 import "fmt"

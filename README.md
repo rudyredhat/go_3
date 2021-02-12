@@ -12,3 +12,5 @@ This repo contains all the programs and related information from book '[The Way 
   - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L8/info.txt)
 6. L9
   - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L9/info.txt)
+7. L10
+  - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L10/info.txt)

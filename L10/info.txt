@@ -39,3 +39,4 @@
         - 10.21 - page 254 multiple inheritance eg
     - 10.7 - string() method and format sprecifiers for a type
     - 10.8 - garbage collection and setfinalizer
+    -----------

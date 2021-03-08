@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------
+0) L-9 - INTERFACES AND REFLECTION
+    - ch - 1 - interfaces.go - intro on interface and recap on methods, func and struct
+    -----------
+    P-265,266 - polymorphism concept ***
+    -----------
+    - ch - 2 - interfaces-polymorphism.go
+    -----------
+    - ch - 3 - 2 struct, 2 method , 1 interface, 1 func
+    -----------
+    - ch - 4 - 

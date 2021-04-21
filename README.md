@@ -1,5 +1,5 @@
 # go_3
-This repo contains all the programs and related information from book '[The Way to Go](https://github.com/rudyredhat/go_3/blob/main/The%20Way%20to%20Go%20OnlyGill.pdf)'
+This repo contains all the programs and related information from book '[The Way to Go](https://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)'
 1. L4
   - [info.txt](https://github.com/rudyredhat/go_3/blob/main/L4/info.txt)
 2. L5

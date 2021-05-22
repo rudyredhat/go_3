@@ -1,5 +1,5 @@
 # go_3
-## This repo contains all the programs and related information from book '[The Way to Go](https://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)'
+## This repo contains all the `programs` and `related information` from `book` '[The Way to Go](https://www.amazon.in/Way-Go-Thorough-Introduction-Programming/dp/1469769166)'
 
 **SOME OF THE CHAPTERS `NOT FINISHED`, STARTED ANOTHER BOOK - `GET PROGRAMMING WITH GO` - [CHECK THAT REPO](https://github.com/rudyredhat/go_GetProgrammingWithGo)**
 1. L4
